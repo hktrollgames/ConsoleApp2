@@ -6,7 +6,7 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("test");
+            Console.WriteLine("이제 커밋 된다");
         }
     }
 }
